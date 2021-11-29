@@ -5,17 +5,21 @@ I created and publish this package to npm so I can use the same configuration ac
 
 ### 💻 Installation
 Using npm `npm i --save-dev @qsalatiel/prettier-config`
+
 Using yarn `yarn add -D @qsalatiel/prettier-config`
 
 ### How to use it
 
 **Via package file**
+
 You can add `"prettier": "@qsalatiel/prettier-config"` to your `package.json`
 
 **Via prettierrc file**
+
 Create a `.prettierrc.json` file with `"@qsalatiel/prettier-config"`
 
 **Via .prettierrc.js if you want to override it**
+
 Create a `.prettierrc.js` file and add the following content:
 ```javascript
 module.exports = {
