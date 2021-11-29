@@ -1,0 +1,21 @@
+{
+  "name": "@salatielq/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config that I use on my projects",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salatielq/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "salatielq",
+    "code-style"
+  ],
+  "author": "salatielq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salatielq/prettier-config/issues"
+  },
+  "homepage": "https://github.com/salatielq/prettier-config#readme"
+}
