@@ -1,21 +1,21 @@
 {
-  "name": "@salatielq/prettier-config",
+  "name": "@qsalatiel/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config that I use on my projects",
   "main": "index.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salatielq/prettier-config.git"
+    "url": "git+https://github.com/qsalatiel/prettier-config.git"
   },
   "keywords": [
     "prettier",
     "salatielq",
     "code-style"
   ],
-  "author": "salatielq",
+  "author": "qsalatiel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/salatielq/prettier-config/issues"
+    "url": "https://github.com/qsalatiel/prettier-config/issues"
   },
-  "homepage": "https://github.com/salatielq/prettier-config#readme"
+  "homepage": "https://github.com/qsalatiel/prettier-config#readme"
 }
