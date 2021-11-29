@@ -1,6 +1,6 @@
 {
   "name": "@qsalatiel/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier config that I use on my projects",
   "main": "index.json",
   "repository": {
