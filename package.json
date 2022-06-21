@@ -1,6 +1,6 @@
 {
   "name": "@qsalatiel/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Prettier config that I use on my projects",
   "main": "index.json",
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/qsalatiel/prettier-config/issues"
   },
-  "homepage": "https://github.com/qsalatiel/prettier-config#readme"
+  "homepage": "https://github.com/qsalatiel/prettier-config#readme",
+  "devDependencies": {
+    "@qsalatiel/prettier-config": "^1.0.3"
+  }
 }
